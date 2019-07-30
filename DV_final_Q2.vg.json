@@ -1,0 +1,44 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/vvt221/dv_test/master/data/pass_hourly.csv",
+    "format": {
+      "type": "csv"
+    }
+  },
+  "selection": {
+    "highlight": {
+      "type": "single",
+      "on": "mouseover",
+      "empty": "none"
+    }
+  },
+  "mark": {
+    "type": "bar"
+  },
+  "encoding": {
+    "color": {
+      "condition": {
+        "selection": "highlight",
+        "value": "SteelBlue"
+      },
+      "value": "LightGrey"
+    },
+    "y": {
+      "field": "ts",
+      "type": "quantitative",
+      "axis": {
+        "title": "Number of Passengers > 4"
+      }
+    },
+    "x": {
+      "field": "Num_Passengers",
+      "type": "quantitative",
+      "sort": "ascending"
+    },
+    "column": {
+      "field": "hour",
+      "type": "quantitative"
+    }
+  }
+}
