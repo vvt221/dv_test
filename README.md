@@ -26,6 +26,7 @@ From the plot it can be seen that a majority of the trips are not served in the 
 #### Plot 2:
 https://bl.ocks.org/vvt221/361d67866f021d266f52fd930f7792bb
 
+#### Explanation:
 This plot shows the bar charts based on the counts of the Actual_Pickup station where most rides could not be served. The counts are then sorted in decreasing order of their frequency. Station ID 229 and Station ID 1196 hold the record for having the highest number of dropped records. Further exploration is done in the spatial plot below:
 
 #### Plot 3:
