@@ -15,6 +15,8 @@ are most of those trips originated in particular regions, and of certain times?
 so, can you show any pattern about these vehicles? For example, how many of them were violating,
 and where were they distributed in both time and space?
 
+##### Note : Steps for the creation of the dataset for visualization purposes are available in the supporting .ipynb notebooks which can be found in the repo.
+
 ## Links to Visualization and Short Explanation:
 
 ### Task 1: What is the serving rate for each scenario throughout the day, comparing to the overall serving rate? Serving rate is the number of successfully matched trip in a period of time. For example, is the serving rate higher in the rush hour or at night?
