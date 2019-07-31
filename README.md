@@ -4,6 +4,10 @@
 
 ## Tasks Chosen:
 
+1. What is the serving rate for each scenario throughout the day, comparing to the overall serving rate?
+Serving rate is the number of successfully matched trip in a period of time. For example, is the serving
+rate higher in the rush hour or at night?
+
 2. For those trips that could not be served, do they follow a spatial or temporal pattern? For example,
 are most of those trips originated in particular regions, and of certain times?
 
@@ -12,6 +16,16 @@ so, can you show any pattern about these vehicles? For example, how many of them
 and where were they distributed in both time and space?
 
 ## Links to Visualization and Short Explanation:
+
+### Task 1: What is the serving rate for each scenario throughout the day, comparing to the overall serving rate? Serving rate is the number of successfully matched trip in a period of time. For example, is the serving rate higher in the rush hour or at night?
+
+
+#### Plot 1:
+
+https://bl.ocks.org/vvt221/0820e350bd4019b50fc4f7b903c1435e
+
+#### Explanation 1:
+The above plot shows the hourly serving rate against the mean serving rate based on the number of requests made. Serving rate is very high in the morning hours accounting for everyone probably commuting to the workplaces. There is a dip around 11 am and stays below the mean till 8.00 pm from where it rises above the average serving rate till 10.00pm after which it again falls below the averge serving rate. Clearly, the serving rate is very high during the morning hours.
 
 ### Task 2: For those trips that could not be served, do they follow a spatial or temporal pattern? For example, are most of those trips originated in particular regions, and of certain times?
 
