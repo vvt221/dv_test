@@ -51,7 +51,7 @@ This plot shows the hourly distribution of counts of rides where the number of p
 It could be possible due to garbage values because the passenger count exceeds 10 and goes on till 68 which are probably garbage values.
 
 
-### Plot 2:
+#### Plot 2:
 
 https://bl.ocks.org/vvt221/dc8610c07a8ba2818e291a37eacc89f6
 
@@ -59,7 +59,7 @@ https://bl.ocks.org/vvt221/dc8610c07a8ba2818e291a37eacc89f6
 This plot shows the number of passengers exceeding 4 varies throughout the hour of the day and pretty much is consistent with the above plot but can be used to see how the distribution varies hourly at a granular level.
 
 
-### Plot 3:
+#### Plot 3:
 
 
 
