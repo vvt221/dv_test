@@ -61,9 +61,12 @@ This plot shows the number of passengers exceeding 4 varies throughout the hour 
 
 #### Plot 3:
 
-
+https://bl.ocks.org/vvt221/ca1a385328565e7df266ea28e258db10
 
 #### Explanation:
+
+This plot over here shows the spatial distribution of rides where the passenger count exceeds 4 at the census tract level. The preponderance of such rides all over Manhattan leads us to believe that it could possible be due to garbage values being entered in the passenger info field.
+
 
 
 
