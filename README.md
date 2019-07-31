@@ -17,6 +17,7 @@ and where were they distributed in both time and space?
 
 
 #### Plot 1:
+
 https://bl.ocks.org/vvt221/7308a3becd0c42c40a22ff735f3fb555
 
 #### Explanation:
@@ -24,6 +25,7 @@ From the plot it can be seen that a majority of the trips are not served in the 
 
 
 #### Plot 2:
+
 https://bl.ocks.org/vvt221/361d67866f021d266f52fd930f7792bb
 
 #### Explanation:
@@ -31,7 +33,37 @@ This plot shows the bar charts based on the counts of the Actual_Pickup station 
 
 #### Plot 3:
 
+https://bl.ocks.org/vvt221/89551b051b549965b8ac67b375280bbd
 
+#### Explanation:
+This plot shows the number of dropped rides at census tract level in Manhattan. From the plot we can see that a large number of rides are dropped in the Central Park region. There are few census tracts near the financial district which hace a high drop rate. Another region with a high ride drop rate is the area in the upper regions of Manhattan.
+
+
+
+### Task 4: We also limit vehicle capacity to at most 4 passengers. Were there vehicles violating this condition? Ifso, can you show any pattern about these vehicles? For example, how many of them were violating,and where were they distributed in both time and space?
+
+#### Plot 1:
+
+https://bl.ocks.org/vvt221/8bf02bece90b84e4d349cc51645e23d0
+
+#### Explanation:
+This plot shows the hourly distribution of counts of rides where the number of passengers exceeded 4. There are a lot of such rides during the late night hours and early morning hours. But the number is less during the morning and afternoon hours.
+It could be possible due to garbage values because the passenger count exceeds 10 and goes on till 68 which are probably garbage values.
+
+
+### Plot 2:
+
+https://bl.ocks.org/vvt221/dc8610c07a8ba2818e291a37eacc89f6
+
+#### Explanation:
+This plot shows the number of passengers exceeding 4 varies throughout the hour of the day and pretty much is consistent with the above plot but can be used to see how the distribution varies hourly at a granular level.
+
+
+### Plot 3:
+
+
+
+#### Explanation:
 
 
 
